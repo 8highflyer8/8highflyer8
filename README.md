@@ -2,6 +2,10 @@
 
 Меня зовут Андрей Максименко, Я тестировщик ПО.  
 Люблю проверять и находить несоответcтвия :-)  
+
+Инструменты которыми я владею  
+Git, Postman, Java, Maven, JUnit5, TestNG, PostgreSQL, MySQL, Docker.  
+
 Мои навыки  
 1. Функциональное тестирование, чек-листы, тест-кейсы, баг-репорты  
    [Курсовая работа по ручном тестированию](https://docs.google.com/spreadsheets/d/1e3blWoGtBWQTarl4bSWc6-h97ZUMfmb3MOWRGsGVLkY/edit#gid=0)
