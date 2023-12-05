@@ -4,7 +4,7 @@
 Люблю проверять и находить несоответcтвия :-)  
 
 Инструменты которыми я владею  
-Git, Postman, Java, Maven, JUnit5, TestNG, PostgreSQL, MySQL, Docker.  
+Git, Postman, Jira, Java, Maven, JUnit5, TestNG, PostgreSQL, MySQL, Docker, Allure.
 
 Мои навыки  
 1. Функциональное тестирование, чек-листы, тест-кейсы, баг-репорты  
