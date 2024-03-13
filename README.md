@@ -17,7 +17,7 @@ Git, Postman, Jira, Java, Maven, JUnit5, TestNG, PostgreSQL, MySQL, Docker, Allu
    [Командный проект по тестированию](https://github.com/alexbaskakau/TeamWorkProject)
 
 
-[Диплом](https://drive.google.com/file/d/1DYQihn3uqhbdf9FDoIBcosjI180DC9vh/view?usp=sharing)
+
 
 
 
