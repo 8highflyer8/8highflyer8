@@ -3,10 +3,10 @@
 Меня зовут Андрей Максименко, Я тестировщик ПО.  
 Люблю проверять и находить несоответcтвия :-)  
 
-Стэк  
-Git, Postman, Jira, Java, Maven, JUnit5, TestNG, PostgreSQL, MySQL, Docker, Allure.
+Стек:  
+Git, Postman, Jira, Java, Maven, JUnit5, TestNG, PostgreSQL, MySQL, Docker, Allure, XMind.
 
-Проекты
+Проекты:
 1. Тестирование документации, требований к ПО  
     [Благотворительный проект приложение "Чек-лист" для АНО “Хрустальные пазлы”](https://github.com/Neto-Solutions/CrystalPuzzles)
 1. Функциональное тестирование, чек-листы, тест-кейсы, баг-репорты  
